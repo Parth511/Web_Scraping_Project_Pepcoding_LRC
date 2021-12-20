@@ -8,7 +8,7 @@ It scrapes the top 3 sections on the wikipedia page listed as
 2. Use In Writing System -> 2.1. Music
 3. Related characters 
 
-You can check the actual page on the below given link:
+You can check the actual page on the given link:
 https://en.wikipedia.org/wiki/P
 
 After scraping these 3 things, the script stores this data in an excel file by the name of P_Data_On_Wikipedia.xlsx, which is not present already will be created in the same folder where these 3 scripts are present.
