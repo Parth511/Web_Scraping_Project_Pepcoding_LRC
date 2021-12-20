@@ -15,7 +15,7 @@ After scraping these 3 things, the script stores this data in an excel file by t
 
 # To start, run the file named LinkGame.js using the following command:
 
-node LinkGame.js
+## node LinkGame.js
 
 ### Note:
 The script is designed to use request, cheerio and xlsx modules. So in order to run this script you have to install them too.
