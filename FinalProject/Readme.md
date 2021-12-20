@@ -13,9 +13,7 @@ https://en.wikipedia.org/wiki/P
 
 After scraping these 3 things, the script stores this data in an excel file by the name of P_Data_On_Wikipedia.xlsx, which is not present already will be created in the same folder where these 3 scripts are present.
 
-# To start, run the file named LinkGame.js using the following command:
-
-## node LinkGame.js
+# To start, run the file named LinkGame.js using the following command: node LinkGame.js
 
 ### Note:
 The script is designed to use request, cheerio and xlsx modules. So in order to run this script you have to install them too.
